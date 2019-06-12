@@ -1,0 +1,3 @@
+rootProject.name = 'pap_4564'
+
+include ':app'
